@@ -1,3 +1,11 @@
+## Structure
+
+1. We are going to have a contract controlled by a DAO
+2. Every transaction that the DAO wants to send has to be voted on
+3. We will use ERC20 tokens for voting(Bad Model, but good for example)
+
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
@@ -65,7 +73,7 @@ $ anvil --help
 $ cast --help
 
 
-1. We are going to have a contract controlled by a DAO
-2. Every transaction that the DAO wants to send has to be voted on
-3. We will use ERC20 tokens for voting(Bad Model, but good for example)
+
 ```
+
+
