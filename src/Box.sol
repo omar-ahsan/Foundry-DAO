@@ -16,7 +16,7 @@ contract Box is Ownable {
     }
 
     // Reads the last stored value
-    function retrieve() public view returns (uint256) {
+    function getNumber() public view returns (uint256) {
         return s_number;
     }
 }
